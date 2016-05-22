@@ -6,7 +6,7 @@ import info.sample.ImmutableFoobarValue;
 import java.util.List;
 
 /**
- * Created by Matthew on 22-May-16.
+ * Created on 22-May-16.
  */
 public class HelloWorld {
     public static void main(String argv[]) {
